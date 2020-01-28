@@ -1,5 +1,5 @@
 # WebProject
 
-## Authores 
+## Authors
 @KxK | @Rayonne
 
